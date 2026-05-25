@@ -1,0 +1,36 @@
+text,category
+Courier shipment charges,Logistics
+Express parcel delivery,Logistics
+Shipping cost for materials,Logistics
+Logistics partner bill,Logistics
+Delivery service payment,Logistics
+
+Office stationery purchase,Office Supplies
+Desk supplies order,Office Supplies
+Office equipment purchase,Office Supplies
+Whiteboard and markers,Office Supplies
+Office accessories purchase,Office Supplies
+
+Cloud hosting invoice AWS,Cloud/Software
+Monthly SaaS billing,Cloud/Software
+Software subscription invoice,Cloud/Software
+Cloud platform usage charges,Cloud/Software
+Online software tools payment,Cloud/Software
+
+Electricity utility charges office,Utilities
+Internet service provider bill,Utilities
+Office water bill payment,Utilities
+Gas connection charges,Utilities
+Utility maintenance invoice,Utilities
+
+Air travel ticket expense,Travel
+Business trip hotel bill,Travel
+Taxi fare reimbursement,Travel
+Corporate travel expense,Travel
+Travel booking invoice,Travel
+
+Stock inventory purchase bill,Inventory
+Bulk goods procurement,Inventory
+Warehouse inventory refill,Inventory
+Product stock buying,Inventory
+Material purchase invoice,Inventory
